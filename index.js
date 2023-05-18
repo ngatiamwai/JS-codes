@@ -42,7 +42,7 @@
 // }
 
 //else if statements
-// const x = 10;
+const x = 10;
 
 // if (x===10){
 //     console.log('x is 10');
